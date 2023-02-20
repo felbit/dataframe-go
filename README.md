@@ -1,5 +1,6 @@
-**note by felbit:** This project is a fork of the fantastic [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) and you probably want to go there for the original experience. I needed some updated dependencies to make this with with Go 1.20 -- that is the only reaso this exists. All credit to the original author!
+**note by felbit:** This project is a fork of the fantastic [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) and you probably want to go there for the original experience. I needed some updated dependencies to make this work with Go 1.20 -- that is the only reaso this exists. All credit to the original author!
 
+Original README below:
 <hr/>
 
 <p align="right">
